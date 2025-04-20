@@ -126,7 +126,7 @@ Run `Final v1.0.ipynb` and follow the prompts.
 | Lokesh        | [Lokesh](https://www.linkedin.com/in/p-lokesh-3865b2351/) |
 
 ---
-## [youtube caannel link](https://www.youtube.com/watch?v=ftuAOdZsgJ0)
+## [youtube channel link](https://www.youtube.com/watch?v=ftuAOdZsgJ0)
 ## 💬 Contact
 
 Feel free to open issues or suggestions!  
