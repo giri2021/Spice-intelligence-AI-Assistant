@@ -1,6 +1,6 @@
 # 🌿 Global Spice Intelligence – AI for Traditional Wellness
 
-**Capstone Project | IIIT Bangalore + Cross-Cultural Collaboration (India & Taiwan)**  
+**Capstone Project | kaggle + Cross-Cultural Collaboration (India & Taiwan)**  
 *Blending ancient healing wisdom with modern AI to promote holistic well-being.*
 
 ---
